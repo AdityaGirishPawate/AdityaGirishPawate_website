@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/AdityaGirishPawate/AdityaG
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Publications
-[https://www.aclweb.org/anthology/2020.textgraphs-1.12/]
+[ChiSquareX at TextGraphs 2020 Shared Task: Leveraging Pretrained Language Models for Explanation Regeneration](https://www.aclweb.org/anthology/2020.textgraphs-1.12/)
 
 ## Work Experience
 ### Research Intern at Autonomous Systems and Robotics
