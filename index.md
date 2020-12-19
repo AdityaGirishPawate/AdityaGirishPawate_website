@@ -1,4 +1,3 @@
-# Aditya Girish Pawate
 ## About
 I am Aditya Girish Pawate, currently, a third-year undergraduate student from the Department of Mathematics enrolled in its integrated Master's course in Mathematics and Computing at the Indian Institute of Technology, Kharagpur.
 Over the last year, I have grown fascinated by the field of Machine Learning Processing and am very passionate about contributing to it. Ever since I have gotten to know about this field I have been reading and learning and trying to apply something interesting in this field.
@@ -7,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/AdityaGirishPawate/AdityaG
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Publications
-https://www.aclweb.org/anthology/2020.textgraphs-1.12/
+[https://www.aclweb.org/anthology/2020.textgraphs-1.12/]
 
 ## Work Experience
 ### Research Intern at Autonomous Systems and Robotics
